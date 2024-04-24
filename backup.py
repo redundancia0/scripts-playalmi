@@ -2,7 +2,7 @@ import os
 import shutil
 import requests
 
-ruta = "localhost:8080"
+ruta = "redundandia0-backups.duckdns.org:8080"
 
 def compress_folder(folder_path, zip_path):
     shutil.make_archive(zip_path, 'zip', folder_path)
