@@ -1,1 +1,1 @@
-Scripts para playAlmi
+Scripts para el proyecto de playAlmi
